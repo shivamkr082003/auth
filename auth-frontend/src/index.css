@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: Arial;
+  background: #f3f4f6;
+}
+
+.card {
+  width: 300px;
+  margin: 80px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+input, button {
+  width: 100%;
+  padding: 8px;
+  margin-top: 10px;
+}
